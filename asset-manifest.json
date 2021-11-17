@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lettuce/static/css/main.01a27f30.chunk.css",
+    "main.js": "/Lettuce/static/js/main.77ebc190.chunk.js",
+    "main.js.map": "/Lettuce/static/js/main.77ebc190.chunk.js.map",
+    "runtime-main.js": "/Lettuce/static/js/runtime-main.11bf058c.js",
+    "runtime-main.js.map": "/Lettuce/static/js/runtime-main.11bf058c.js.map",
+    "static/js/2.3b40cfd0.chunk.js": "/Lettuce/static/js/2.3b40cfd0.chunk.js",
+    "static/js/2.3b40cfd0.chunk.js.map": "/Lettuce/static/js/2.3b40cfd0.chunk.js.map",
+    "static/js/3.b0dc9e64.chunk.js": "/Lettuce/static/js/3.b0dc9e64.chunk.js",
+    "static/js/3.b0dc9e64.chunk.js.map": "/Lettuce/static/js/3.b0dc9e64.chunk.js.map",
+    "index.html": "/Lettuce/index.html",
+    "static/css/main.01a27f30.chunk.css.map": "/Lettuce/static/css/main.01a27f30.chunk.css.map",
+    "static/js/2.3b40cfd0.chunk.js.LICENSE.txt": "/Lettuce/static/js/2.3b40cfd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11bf058c.js",
+    "static/js/2.3b40cfd0.chunk.js",
+    "static/css/main.01a27f30.chunk.css",
+    "static/js/main.77ebc190.chunk.js"
+  ]
+}
